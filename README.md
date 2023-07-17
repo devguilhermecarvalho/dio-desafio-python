@@ -1,2 +1,2 @@
-# dio-desafio-python
-Desafios do curso de Formação Python da plataforma DIO
+# DESAFIOS FORMAÇÃO PYTHON - DIO
+Desafios do curso de Formação Python da plataforma DIO.
